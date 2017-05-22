@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_map_bottom.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\bg_map_bottom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\messageview.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\messageview.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\map_zan.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\map_zan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\a01.jpg",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\a01.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\map_traffic.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\map_traffic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\map_switch.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\map_switch.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\a04.jpg",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\a04.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\map_mode.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\map_mode.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\map_search.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\map_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\a02.jpg",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\a02.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\map_local.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\map_local.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_border.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\img_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\a03.jpg",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-mdpi\\a03.jpg"
+    }
+]

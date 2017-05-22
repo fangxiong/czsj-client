@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\friend_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_fliter.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_imagefactory_fliter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_birthday.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_register_birthday.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_url_textview.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_url_textview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_exit.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\app_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_search_result_item.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\friend_search_result_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_loading_view.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_loading_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_web.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_dialog_web.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_dialog_generic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\listitem_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_loading_indicator.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_loading_indicator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_simplelist.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_dialog_simplelist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_switcher.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_switcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nearby.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\fragment_nearby.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header_rightimagebutton.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_header_rightimagebutton.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagefactory.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_imagefactory.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baseweb.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_baseweb.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_filter_item.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\listitem_filter_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_welcome_item.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_welcome_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_crop.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_imagefactory_crop.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_toast.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_baseinfo.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_register_baseinfo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_flipping_loading_diloag.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_flipping_loading_diloag.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_title_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_search_result.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_friend_search_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchfriend.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_searchfriend.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_edittext.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_dialog_edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_setpwd.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_register_setpwd.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_headerbar.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_headerbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header_righttext.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_header_righttext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friendlist.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\fragment_friendlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_message_item_.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\chat_message_item_.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message_item.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\fragment_message_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_userinfo.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\fragment_userinfo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_headerbar_spinner.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\common_headerbar_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_photo.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_register_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_register_account.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\layout\\include_register_account.xml"
+    }
+]

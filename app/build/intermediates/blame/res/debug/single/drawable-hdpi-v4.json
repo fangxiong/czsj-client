@@ -1,0 +1,710 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_blue_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_blue_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_chatbtn_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_dropmenu_up.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_dropmenu_up.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_bottom_4.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_null.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\checkbox_null.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_inner_bottom_right_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_right_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_cover_userheader_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_cover_userheader_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_profilebar_follow_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_profilebar_follow_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_topbar_def_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_topbar_def_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo_blue.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_logo_blue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_popsubmit_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_popsubmit_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messageview.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\messageview.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_tab_icon_plugin_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_tab_icon_plugin_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chatbar_textmode.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_chatbar_textmode.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_tab_icon_contact_selected.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_tab_icon_contact_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_profilebar_chat_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_profilebar_chat_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_chatbtn3_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn3_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_inner_bottom_left_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_left_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_submit_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_submit_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_normal_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bottombar_disable.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_disable.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_content_1.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_content_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_profilebar_unfollow_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_profilebar_unfollow_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unread_msg_indicator3.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\unread_msg_indicator3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_white_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_white_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat_dis_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_dis_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_chat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat_plusbar.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_plusbar.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_msgbox_receive_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_msgbox_receive_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_unlogin_bar.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_unlogin_bar.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_msgbox_send_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_msgbox_send_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_loadbar.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_loadbar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_bottom_3.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_userpro_bind_press.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_userpro_bind_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_normal_focus.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_focus.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_topbar_def_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_topbar_def_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_white_disable.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_white_disable.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_white_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_white_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_chatbtn3_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn3_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\acm_inputbox.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\acm_inputbox.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_bottombar_center_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_bottombar_center_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_disable.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_disable.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_bottombar_center_press.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_bottombar_center_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dropmenu_selector.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_dropmenu_selector.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_small_normal_disable.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_small_normal_disable.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tabselector2_center_select.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_center_select.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_index_copyright.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\pic_index_copyright.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tabselector2_full_select.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_full_select.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_userinfo_group.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_userinfo_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_bottom_1.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cropphoto_buoy.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_cropphoto_buoy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_chat.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\no_chat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tabselector2_right_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_right_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_reg_album.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_reg_album.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_common_def_header.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_common_def_header.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_multiline_focus.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\edittext_multiline_focus.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_common_toast.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_common_toast.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_topbar.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_topbar.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_inner_top_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_top_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qq_contact_list_add_bt_common.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\qq_contact_list_add_bt_common.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_submit_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_submit_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_cover_userheader.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_cover_userheader.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_conversation_title_right_btn_selected.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_conversation_title_right_btn_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_intro_bg.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_intro_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_submit_disable.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_submit_disable.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_qq.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\channel_qq.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_user_signature_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_user_signature_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_tab_icon_setup_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_tab_icon_setup_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_common_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_common_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_publish_emote.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_publish_emote.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_inner_bottom_center_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_center_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_inner_bottom_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_multiline_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\edittext_multiline_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_popsubmit_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_popsubmit_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tabselector2_full_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_full_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_user_signature_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_user_signature_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat_dis_active.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_dis_active.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_content_5.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_content_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_dropmenu.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_dropmenu.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reader_item_divider.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\reader_item_divider.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tabselector2_left_select.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_left_select.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_5_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_5_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lbs_popup_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\lbs_popup_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bottombar_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tabselector2_center_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_center_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_userheader_vip_shadow.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_userheader_vip_shadow.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_qzone_title_progress.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_qzone_title_progress.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_profilebar_forbid_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_profilebar_forbid_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_2_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_2_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h001.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\h001.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_3_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_3_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_msgbox_send_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_msgbox_send_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_4_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_4_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boss_unipay_icon_back.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\boss_unipay_icon_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_msgtip_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_msgtip_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tabselector2_right_select.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_right_select.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_inner_bottom_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_bottom_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_tab_icon_conversation_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_tab_icon_conversation_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_content_4.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_content_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_tab_icon_setup_selected.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_tab_icon_setup_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_searchbar_clear_press.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_searchbar_clear_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_plusbar_camera_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plusbar_camera_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_normal_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_plus_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plus_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_reg_camera.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_reg_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cropphoto_buoy2.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_cropphoto_buoy2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_small_normal_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_small_normal_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_tab_icon_conversation_selected.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_tab_icon_conversation_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\terminal_icon_ios.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\terminal_icon_ios.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_tab_icon_contact_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_tab_icon_contact_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_content_3.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_content_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_user_signature2_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_user_signature2_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_refrashbar_cancel_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_refrashbar_cancel_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_about_brand.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_about_brand.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_1_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_1_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_cover_userheader_outerpress.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_cover_userheader_outerpress.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_blue_disable.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_blue_disable.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_inner_top_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_inner_top_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_refrashbar_cancel_press.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_refrashbar_cancel_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_searchbar_clear_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_searchbar_clear_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_common_droparrow.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_common_droparrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_chatbtn2_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn2_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_common_tabseletor_on.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_common_tabseletor_on.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_chatbtn2_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn2_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_popwindow.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_popwindow.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat_emote_selector.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_emote_selector.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tab_bluelight_selectedpress.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_bluelight_selectedpress.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_chatbtn_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_chatbtn_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_msgtip_point.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_msgtip_point.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tabselector2_left_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tabselector2_left_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_content_2.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_content_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_popsubmit_disable.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_popsubmit_disable.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_index_logo.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\pic_index_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_plusbar_present_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plusbar_present_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\status_online.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\status_online.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tab_bluelight_selected.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_bluelight_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_blue_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_big_blue_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat_active.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_active.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_keyboard_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_keyboard_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_topbar_rotation.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_rotation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qq_contact_list_add_bt_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\qq_contact_list_add_bt_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tab_bluelight_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_bluelight_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_emote_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_emote_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_welcome_ctrlbar.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_welcome_ctrlbar.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_small_normal_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_small_normal_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_card_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_card_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_plusbar_location_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plusbar_location_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_sendmsg_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\edittext_sendmsg_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_msgbox_receive_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_msgbox_receive_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tb_item_on.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tb_item_on.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_bottom_5.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index_bottom_2.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\index_bottom_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_4_active.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_4_active.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_3_active.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_3_active.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_plusbar_pic_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_plusbar_pic_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_reg_userhead.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_reg_userhead.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_topbar_dropdown_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_dropdown_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_default_avatar.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\login_default_avatar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\refresh_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_2_active.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_2_active.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_topbar_shadow.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_topbar_shadow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_common_tabselector.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_common_tabselector.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_tab_icon_plugin_selected.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\skin_tab_icon_plugin_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_topbar_logo.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_topbar_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_dropmenu_topbar.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_dropmenu_topbar.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bottombar_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tab_bluelight_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_bluelight_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_user_signature2_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\bg_user_signature2_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_common_droparrow_up.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_common_droparrow_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_nav_5_active.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_5_active.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_cut_button_normal.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable-hdpi\\picture_cut_button_normal.png"
+    }
+]

@@ -1,0 +1,3659 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 79,
+                    "endColumn": 19,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endLine": 112,
+                    "endColumn": 19,
+                    "endOffset": 2784
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 2789,
+                    "endLine": 126,
+                    "endColumn": 19,
+                    "endOffset": 3175
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3180,
+                    "endLine": 200,
+                    "endColumn": 19,
+                    "endOffset": 5254
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 5259,
+                    "endLine": 205,
+                    "endColumn": 19,
+                    "endOffset": 5399
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 5404,
+                    "endLine": 425,
+                    "endColumn": 19,
+                    "endOffset": 12094
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 12099,
+                    "endLine": 432,
+                    "endColumn": 12,
+                    "endOffset": 12303
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 12308,
+                    "endLine": 439,
+                    "endColumn": 12,
+                    "endOffset": 12578
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 12583,
+                    "endLine": 446,
+                    "endColumn": 12,
+                    "endOffset": 12859
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 12864,
+                    "endLine": 452,
+                    "endColumn": 19,
+                    "endOffset": 13026
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 13031,
+                    "endColumn": 62,
+                    "endOffset": 13089
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 13094,
+                    "endColumn": 49,
+                    "endOffset": 13139
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 13144,
+                    "endColumn": 41,
+                    "endOffset": 13181
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 13186,
+                    "endColumn": 44,
+                    "endOffset": 13226
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 13231,
+                    "endColumn": 51,
+                    "endOffset": 13278
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 13283,
+                    "endColumn": 53,
+                    "endOffset": 13332
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 13337,
+                    "endColumn": 59,
+                    "endOffset": 13392
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 13397,
+                    "endColumn": 62,
+                    "endOffset": 13455
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 13460,
+                    "endColumn": 56,
+                    "endOffset": 13512
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 13517,
+                    "endColumn": 62,
+                    "endOffset": 13575
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 13580,
+                    "endColumn": 52,
+                    "endOffset": 13628
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 13633,
+                    "endColumn": 48,
+                    "endOffset": 13677
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 13682,
+                    "endColumn": 72,
+                    "endOffset": 13750
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 13755,
+                    "endColumn": 62,
+                    "endOffset": 13813
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 13818,
+                    "endColumn": 65,
+                    "endOffset": 13879
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 13884,
+                    "endColumn": 58,
+                    "endOffset": 13938
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 13943,
+                    "endColumn": 51,
+                    "endOffset": 13990
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 13995,
+                    "endColumn": 55,
+                    "endOffset": 14046
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 14051,
+                    "endColumn": 42,
+                    "endOffset": 14089
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 14094,
+                    "endColumn": 50,
+                    "endOffset": 14140
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 14145,
+                    "endColumn": 47,
+                    "endOffset": 14188
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 14193,
+                    "endColumn": 53,
+                    "endOffset": 14242
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 14247,
+                    "endColumn": 54,
+                    "endOffset": 14297
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 14302,
+                    "endColumn": 56,
+                    "endOffset": 14354
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 14359,
+                    "endColumn": 50,
+                    "endOffset": 14405
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 14410,
+                    "endColumn": 49,
+                    "endOffset": 14455
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 14460,
+                    "endColumn": 41,
+                    "endOffset": 14497
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 14502,
+                    "endColumn": 38,
+                    "endOffset": 14536
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 14541,
+                    "endColumn": 55,
+                    "endOffset": 14592
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 14597,
+                    "endColumn": 56,
+                    "endOffset": 14649
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 14654,
+                    "endColumn": 51,
+                    "endOffset": 14701
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 14706,
+                    "endColumn": 45,
+                    "endOffset": 14747
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 8367,
+                        "endColumn": 45,
+                        "endOffset": 8408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 14752,
+                    "endColumn": 46,
+                    "endOffset": 14794
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 8269,
+                        "endColumn": 46,
+                        "endOffset": 8311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 14799,
+                    "endColumn": 50,
+                    "endOffset": 14845
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 8316,
+                        "endColumn": 50,
+                        "endOffset": 8362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 14850,
+                    "endColumn": 46,
+                    "endOffset": 14892
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 14897,
+                    "endColumn": 59,
+                    "endOffset": 14952
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 14957,
+                    "endColumn": 45,
+                    "endOffset": 14998
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 15003,
+                    "endColumn": 44,
+                    "endOffset": 15043
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 15048,
+                    "endColumn": 43,
+                    "endOffset": 15087
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 15092,
+                    "endColumn": 47,
+                    "endOffset": 15135
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 15140,
+                    "endColumn": 48,
+                    "endOffset": 15184
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 15189,
+                    "endColumn": 45,
+                    "endOffset": 15230
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 15235,
+                    "endColumn": 46,
+                    "endOffset": 15277
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 15282,
+                    "endColumn": 55,
+                    "endOffset": 15333
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 15338,
+                    "endColumn": 56,
+                    "endOffset": 15390
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 15395,
+                    "endColumn": 57,
+                    "endOffset": 15448
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 15453,
+                    "endColumn": 50,
+                    "endOffset": 15499
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 15504,
+                    "endColumn": 57,
+                    "endOffset": 15557
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 15562,
+                    "endColumn": 59,
+                    "endOffset": 15617
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 15622,
+                    "endColumn": 59,
+                    "endOffset": 15677
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 15682,
+                    "endColumn": 54,
+                    "endOffset": 15732
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 15737,
+                    "endColumn": 50,
+                    "endOffset": 15783
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 15788,
+                    "endColumn": 46,
+                    "endOffset": 15830
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 15835,
+                    "endColumn": 50,
+                    "endOffset": 15881
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 15886,
+                    "endColumn": 50,
+                    "endOffset": 15932
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 15937,
+                    "endColumn": 46,
+                    "endOffset": 15979
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 15984,
+                    "endColumn": 63,
+                    "endOffset": 16043
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 16048,
+                    "endColumn": 56,
+                    "endOffset": 16100
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 16105,
+                    "endColumn": 49,
+                    "endOffset": 16150
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 16155,
+                    "endColumn": 55,
+                    "endOffset": 16206
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 16211,
+                    "endColumn": 48,
+                    "endOffset": 16255
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 16260,
+                    "endColumn": 47,
+                    "endOffset": 16303
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 16308,
+                    "endColumn": 38,
+                    "endOffset": 16342
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 16347,
+                    "endColumn": 38,
+                    "endOffset": 16381
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 16386,
+                    "endColumn": 43,
+                    "endOffset": 16425
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 16430,
+                    "endColumn": 39,
+                    "endOffset": 16465
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 16470,
+                    "endColumn": 41,
+                    "endOffset": 16507
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 16512,
+                    "endColumn": 62,
+                    "endOffset": 16570
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 16575,
+                    "endColumn": 64,
+                    "endOffset": 16635
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 16640,
+                    "endColumn": 61,
+                    "endOffset": 16697
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 16702,
+                    "endColumn": 63,
+                    "endOffset": 16761
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 16766,
+                    "endColumn": 60,
+                    "endOffset": 16822
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 16827,
+                    "endColumn": 62,
+                    "endOffset": 16885
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 16890,
+                    "endColumn": 54,
+                    "endOffset": 16940
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 16945,
+                    "endColumn": 68,
+                    "endOffset": 17009
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 17014,
+                    "endColumn": 64,
+                    "endOffset": 17074
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 17079,
+                    "endColumn": 56,
+                    "endOffset": 17131
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 17136,
+                    "endColumn": 56,
+                    "endOffset": 17188
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 17193,
+                    "endColumn": 56,
+                    "endOffset": 17245
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 17250,
+                    "endColumn": 46,
+                    "endOffset": 17292
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 17297,
+                    "endColumn": 53,
+                    "endOffset": 17346
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 17351,
+                    "endColumn": 48,
+                    "endOffset": 17395
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 17400,
+                    "endColumn": 46,
+                    "endOffset": 17442
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 17447,
+                    "endColumn": 55,
+                    "endOffset": 17498
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 17503,
+                    "endColumn": 63,
+                    "endOffset": 17562
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 17567,
+                    "endColumn": 50,
+                    "endOffset": 17613
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 17618,
+                    "endColumn": 47,
+                    "endOffset": 17661
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 17666,
+                    "endColumn": 50,
+                    "endOffset": 17712
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 17717,
+                    "endColumn": 45,
+                    "endOffset": 17758
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 17763,
+                    "endColumn": 53,
+                    "endOffset": 17812
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 17817,
+                    "endColumn": 56,
+                    "endOffset": 17869
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 17874,
+                    "endColumn": 53,
+                    "endOffset": 17923
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 17928,
+                    "endColumn": 58,
+                    "endOffset": 17982
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 546,
+                    "startColumn": 4,
+                    "startOffset": 17987,
+                    "endColumn": 59,
+                    "endOffset": 18042
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 18047,
+                    "endColumn": 62,
+                    "endOffset": 18105
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 18110,
+                    "endColumn": 52,
+                    "endOffset": 18158
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 549,
+                    "startColumn": 4,
+                    "startOffset": 18163,
+                    "endColumn": 55,
+                    "endOffset": 18214
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 18219,
+                    "endColumn": 57,
+                    "endOffset": 18272
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 18277,
+                    "endColumn": 59,
+                    "endOffset": 18332
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 552,
+                    "startColumn": 4,
+                    "startOffset": 18337,
+                    "endColumn": 53,
+                    "endOffset": 18386
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 18391,
+                    "endColumn": 50,
+                    "endOffset": 18437
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 554,
+                    "startColumn": 4,
+                    "startOffset": 18442,
+                    "endColumn": 57,
+                    "endOffset": 18495
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 555,
+                    "startColumn": 4,
+                    "startOffset": 18500,
+                    "endColumn": 55,
+                    "endOffset": 18551
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 18556,
+                    "endColumn": 51,
+                    "endOffset": 18603
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 557,
+                    "startColumn": 4,
+                    "startOffset": 18608,
+                    "endColumn": 54,
+                    "endOffset": 18658
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 18663,
+                    "endColumn": 51,
+                    "endOffset": 18710
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 559,
+                    "startColumn": 4,
+                    "startOffset": 18715,
+                    "endColumn": 40,
+                    "endOffset": 18751
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 18756,
+                    "endColumn": 47,
+                    "endOffset": 18799
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 561,
+                    "startColumn": 4,
+                    "startOffset": 18804,
+                    "endColumn": 42,
+                    "endOffset": 18842
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 18847,
+                    "endColumn": 47,
+                    "endOffset": 18890
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 18895,
+                    "endColumn": 58,
+                    "endOffset": 18949
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 564,
+                    "startColumn": 4,
+                    "startOffset": 18954,
+                    "endColumn": 61,
+                    "endOffset": 19011
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 565,
+                    "startColumn": 4,
+                    "startOffset": 19016,
+                    "endColumn": 62,
+                    "endOffset": 19074
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 566,
+                    "startColumn": 4,
+                    "startOffset": 19079,
+                    "endColumn": 65,
+                    "endOffset": 19140
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 567,
+                    "startColumn": 4,
+                    "startOffset": 19145,
+                    "endColumn": 53,
+                    "endOffset": 19194
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 19199,
+                    "endColumn": 63,
+                    "endOffset": 19258
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 19263,
+                    "endColumn": 65,
+                    "endOffset": 19324
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 19329,
+                    "endColumn": 58,
+                    "endOffset": 19383
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 571,
+                    "startColumn": 4,
+                    "startOffset": 19388,
+                    "endColumn": 57,
+                    "endOffset": 19441
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 572,
+                    "startColumn": 4,
+                    "startOffset": 19446,
+                    "endColumn": 52,
+                    "endOffset": 19494
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 573,
+                    "startColumn": 4,
+                    "startOffset": 19499,
+                    "endColumn": 55,
+                    "endOffset": 19550
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 19555,
+                    "endColumn": 39,
+                    "endOffset": 19590
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 575,
+                    "startColumn": 4,
+                    "startOffset": 19595,
+                    "endColumn": 49,
+                    "endOffset": 19640
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 576,
+                    "startColumn": 4,
+                    "startOffset": 19645,
+                    "endColumn": 55,
+                    "endOffset": 19696
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 577,
+                    "startColumn": 4,
+                    "startOffset": 19701,
+                    "endColumn": 58,
+                    "endOffset": 19755
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 578,
+                    "startColumn": 4,
+                    "startOffset": 19760,
+                    "endColumn": 47,
+                    "endOffset": 19803
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 579,
+                    "startColumn": 4,
+                    "startOffset": 19808,
+                    "endColumn": 62,
+                    "endOffset": 19866
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 19871,
+                    "endColumn": 61,
+                    "endOffset": 19928
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 581,
+                    "startColumn": 4,
+                    "startOffset": 19933,
+                    "endColumn": 48,
+                    "endOffset": 19977
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 582,
+                    "startColumn": 4,
+                    "startOffset": 19982,
+                    "endColumn": 50,
+                    "endOffset": 20028
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 583,
+                    "startColumn": 4,
+                    "startOffset": 20033,
+                    "endColumn": 49,
+                    "endOffset": 20078
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 584,
+                    "startColumn": 4,
+                    "startOffset": 20083,
+                    "endColumn": 45,
+                    "endOffset": 20124
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 20129,
+                    "endColumn": 48,
+                    "endOffset": 20173
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 586,
+                    "startColumn": 4,
+                    "startOffset": 20178,
+                    "endColumn": 42,
+                    "endOffset": 20216
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 20221,
+                    "endColumn": 46,
+                    "endOffset": 20263
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 588,
+                    "startColumn": 4,
+                    "startOffset": 20268,
+                    "endColumn": 51,
+                    "endOffset": 20315
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 589,
+                    "startColumn": 4,
+                    "startOffset": 20320,
+                    "endColumn": 58,
+                    "endOffset": 20374
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 20379,
+                    "endColumn": 57,
+                    "endOffset": 20432
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 591,
+                    "startColumn": 4,
+                    "startOffset": 20437,
+                    "endColumn": 52,
+                    "endOffset": 20485
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 592,
+                    "startColumn": 4,
+                    "startOffset": 20490,
+                    "endColumn": 55,
+                    "endOffset": 20541
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 593,
+                    "startColumn": 4,
+                    "startOffset": 20546,
+                    "endColumn": 53,
+                    "endOffset": 20595
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 594,
+                    "startColumn": 4,
+                    "startOffset": 20600,
+                    "endColumn": 49,
+                    "endOffset": 20645
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 595,
+                    "startColumn": 4,
+                    "startOffset": 20650,
+                    "endColumn": 39,
+                    "endOffset": 20685
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 596,
+                    "startColumn": 4,
+                    "startOffset": 20690,
+                    "endColumn": 47,
+                    "endOffset": 20733
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 597,
+                    "startColumn": 4,
+                    "startOffset": 20738,
+                    "endColumn": 58,
+                    "endOffset": 20792
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 598,
+                    "startColumn": 4,
+                    "startOffset": 20797,
+                    "endColumn": 44,
+                    "endOffset": 20837
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 599,
+                    "startColumn": 4,
+                    "startOffset": 20842,
+                    "endColumn": 50,
+                    "endOffset": 20888
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 600,
+                    "startColumn": 4,
+                    "startOffset": 20893,
+                    "endColumn": 51,
+                    "endOffset": 20940
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 601,
+                    "startColumn": 4,
+                    "startOffset": 20945,
+                    "endColumn": 50,
+                    "endOffset": 20991
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 602,
+                    "startColumn": 4,
+                    "startOffset": 20996,
+                    "endColumn": 52,
+                    "endOffset": 21044
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 603,
+                    "startColumn": 4,
+                    "startOffset": 21049,
+                    "endColumn": 48,
+                    "endOffset": 21093
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 604,
+                    "startColumn": 4,
+                    "startOffset": 21098,
+                    "endColumn": 51,
+                    "endOffset": 21145
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 21150,
+                    "endColumn": 53,
+                    "endOffset": 21199
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 21204,
+                    "endColumn": 41,
+                    "endOffset": 21241
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 607,
+                    "startColumn": 4,
+                    "startOffset": 21246,
+                    "endColumn": 40,
+                    "endOffset": 21282
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 608,
+                    "startColumn": 4,
+                    "startOffset": 21287,
+                    "endColumn": 40,
+                    "endOffset": 21323
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 610,
+                    "startColumn": 4,
+                    "startOffset": 21673,
+                    "endColumn": 57,
+                    "endOffset": 21726
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 611,
+                    "startColumn": 4,
+                    "startOffset": 21731,
+                    "endColumn": 55,
+                    "endOffset": 21782
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 612,
+                    "startColumn": 4,
+                    "startOffset": 21787,
+                    "endColumn": 42,
+                    "endOffset": 21825
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 613,
+                    "startColumn": 4,
+                    "startOffset": 21830,
+                    "endColumn": 49,
+                    "endOffset": 21875
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 614,
+                    "startColumn": 4,
+                    "startOffset": 21880,
+                    "endColumn": 59,
+                    "endOffset": 21935
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\drawables.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 615,
+                    "startColumn": 4,
+                    "startOffset": 21940,
+                    "endColumn": 66,
+                    "endOffset": 22002
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\drawables.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 616,
+                    "startColumn": 4,
+                    "startOffset": 22007,
+                    "endColumn": 52,
+                    "endOffset": 22055
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 617,
+                    "startColumn": 4,
+                    "startOffset": 22060,
+                    "endColumn": 62,
+                    "endOffset": 22118
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\drawables.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 618,
+                    "startColumn": 4,
+                    "startOffset": 22123,
+                    "endColumn": 52,
+                    "endOffset": 22171
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 619,
+                    "startColumn": 4,
+                    "startOffset": 22176,
+                    "endColumn": 34,
+                    "endOffset": 22206
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 620,
+                    "startColumn": 4,
+                    "startOffset": 22211,
+                    "endColumn": 41,
+                    "endOffset": 22248
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 621,
+                    "startColumn": 4,
+                    "startOffset": 22253,
+                    "endColumn": 48,
+                    "endOffset": 22297
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 622,
+                    "startColumn": 4,
+                    "startOffset": 22302,
+                    "endColumn": 44,
+                    "endOffset": 22342
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 623,
+                    "startColumn": 4,
+                    "startOffset": 22347,
+                    "endColumn": 45,
+                    "endOffset": 22388
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 624,
+                    "startColumn": 4,
+                    "startOffset": 22393,
+                    "endColumn": 35,
+                    "endOffset": 22424
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 625,
+                    "startColumn": 4,
+                    "startOffset": 22429,
+                    "endColumn": 41,
+                    "endOffset": 22466
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 626,
+                    "startColumn": 4,
+                    "startOffset": 22471,
+                    "endColumn": 40,
+                    "endOffset": 22507
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 627,
+                    "startColumn": 4,
+                    "startOffset": 22512,
+                    "endColumn": 35,
+                    "endOffset": 22543
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 628,
+                    "startColumn": 4,
+                    "startOffset": 22548,
+                    "endColumn": 45,
+                    "endOffset": 22589
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 629,
+                    "startColumn": 4,
+                    "startOffset": 22594,
+                    "endColumn": 49,
+                    "endOffset": 22639
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 630,
+                    "startColumn": 4,
+                    "startOffset": 22644,
+                    "endColumn": 60,
+                    "endOffset": 22700
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 631,
+                    "startColumn": 4,
+                    "startOffset": 22705,
+                    "endColumn": 45,
+                    "endOffset": 22746
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 632,
+                    "startColumn": 4,
+                    "startOffset": 22751,
+                    "endColumn": 42,
+                    "endOffset": 22789
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 633,
+                    "startColumn": 4,
+                    "startOffset": 22794,
+                    "endColumn": 40,
+                    "endOffset": 22830
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 634,
+                    "startColumn": 4,
+                    "startOffset": 22835,
+                    "endColumn": 46,
+                    "endOffset": 22877
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 635,
+                    "startColumn": 4,
+                    "startOffset": 22882,
+                    "endColumn": 44,
+                    "endOffset": 22922
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 636,
+                    "startColumn": 4,
+                    "startOffset": 22927,
+                    "endColumn": 52,
+                    "endOffset": 22975
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 637,
+                    "startColumn": 4,
+                    "startOffset": 22980,
+                    "endColumn": 45,
+                    "endOffset": 23021
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 638,
+                    "startColumn": 4,
+                    "startOffset": 23026,
+                    "endColumn": 37,
+                    "endOffset": 23059
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 639,
+                    "startColumn": 4,
+                    "startOffset": 23064,
+                    "endColumn": 51,
+                    "endOffset": 23111
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 640,
+                    "startColumn": 4,
+                    "startOffset": 23116,
+                    "endColumn": 49,
+                    "endOffset": 23161
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 641,
+                    "startColumn": 4,
+                    "startOffset": 23166,
+                    "endColumn": 36,
+                    "endOffset": 23198
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 642,
+                    "startColumn": 4,
+                    "startOffset": 23203,
+                    "endColumn": 38,
+                    "endOffset": 23237
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 643,
+                    "startColumn": 4,
+                    "startOffset": 23242,
+                    "endColumn": 39,
+                    "endOffset": 23277
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 644,
+                    "startColumn": 4,
+                    "startOffset": 23282,
+                    "endColumn": 38,
+                    "endOffset": 23316
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 645,
+                    "startColumn": 4,
+                    "startOffset": 23321,
+                    "endColumn": 46,
+                    "endOffset": 23363
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 646,
+                    "startColumn": 4,
+                    "startOffset": 23368,
+                    "endColumn": 43,
+                    "endOffset": 23407
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 647,
+                    "startColumn": 4,
+                    "startOffset": 23412,
+                    "endColumn": 47,
+                    "endOffset": 23455
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 648,
+                    "startColumn": 4,
+                    "startOffset": 23460,
+                    "endColumn": 57,
+                    "endOffset": 23513
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 649,
+                    "startColumn": 4,
+                    "startOffset": 23518,
+                    "endColumn": 49,
+                    "endOffset": 23563
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 650,
+                    "startColumn": 4,
+                    "startOffset": 23568,
+                    "endColumn": 45,
+                    "endOffset": 23609
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 651,
+                    "startColumn": 4,
+                    "startOffset": 23614,
+                    "endColumn": 36,
+                    "endOffset": 23646
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 652,
+                    "startColumn": 4,
+                    "startOffset": 23651,
+                    "endColumn": 43,
+                    "endOffset": 23690
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 653,
+                    "startColumn": 4,
+                    "startOffset": 23695,
+                    "endColumn": 52,
+                    "endOffset": 23743
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 654,
+                    "startColumn": 4,
+                    "startOffset": 23748,
+                    "endColumn": 54,
+                    "endOffset": 23798
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 655,
+                    "startColumn": 4,
+                    "startOffset": 23803,
+                    "endColumn": 62,
+                    "endOffset": 23861
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 656,
+                    "startColumn": 4,
+                    "startOffset": 23866,
+                    "endColumn": 36,
+                    "endOffset": 23898
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 657,
+                    "startColumn": 4,
+                    "startOffset": 23903,
+                    "endColumn": 34,
+                    "endOffset": 23933
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 658,
+                    "startColumn": 4,
+                    "startOffset": 23938,
+                    "endColumn": 35,
+                    "endOffset": 23969
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 659,
+                    "startColumn": 4,
+                    "startOffset": 23974,
+                    "endColumn": 43,
+                    "endOffset": 24013
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 660,
+                    "startColumn": 4,
+                    "startOffset": 24018,
+                    "endColumn": 44,
+                    "endOffset": 24058
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 661,
+                    "startColumn": 4,
+                    "startOffset": 24063,
+                    "endColumn": 59,
+                    "endOffset": 24118
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 662,
+                    "startColumn": 4,
+                    "startOffset": 24123,
+                    "endColumn": 57,
+                    "endOffset": 24176
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 663,
+                    "startColumn": 4,
+                    "startOffset": 24181,
+                    "endColumn": 44,
+                    "endOffset": 24221
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 664,
+                    "startColumn": 4,
+                    "startOffset": 24226,
+                    "endColumn": 60,
+                    "endOffset": 24282
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 665,
+                    "startColumn": 4,
+                    "startOffset": 24287,
+                    "endColumn": 62,
+                    "endOffset": 24345
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 666,
+                    "startColumn": 4,
+                    "startOffset": 24350,
+                    "endColumn": 62,
+                    "endOffset": 24408
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 667,
+                    "startColumn": 4,
+                    "startOffset": 24413,
+                    "endColumn": 58,
+                    "endOffset": 24467
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 668,
+                    "startColumn": 4,
+                    "startOffset": 24472,
+                    "endColumn": 57,
+                    "endOffset": 24525
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 669,
+                    "startColumn": 4,
+                    "startOffset": 24530,
+                    "endColumn": 58,
+                    "endOffset": 24584
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 670,
+                    "startColumn": 4,
+                    "startOffset": 24589,
+                    "endColumn": 62,
+                    "endOffset": 24647
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 671,
+                    "startColumn": 4,
+                    "startOffset": 24652,
+                    "endColumn": 60,
+                    "endOffset": 24708
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 672,
+                    "startColumn": 4,
+                    "startOffset": 24713,
+                    "endColumn": 43,
+                    "endOffset": 24752
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 673,
+                    "startColumn": 4,
+                    "startOffset": 24757,
+                    "endColumn": 41,
+                    "endOffset": 24794
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 674,
+                    "startColumn": 4,
+                    "startOffset": 24799,
+                    "endColumn": 43,
+                    "endOffset": 24838
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 675,
+                    "startColumn": 4,
+                    "startOffset": 24843,
+                    "endColumn": 40,
+                    "endOffset": 24879
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 676,
+                    "startColumn": 4,
+                    "startOffset": 24884,
+                    "endColumn": 43,
+                    "endOffset": 24923
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 677,
+                    "startColumn": 4,
+                    "startOffset": 24928,
+                    "endColumn": 40,
+                    "endOffset": 24964
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 678,
+                    "startColumn": 4,
+                    "startOffset": 24969,
+                    "endColumn": 48,
+                    "endOffset": 25013
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 679,
+                    "startColumn": 4,
+                    "startOffset": 25018,
+                    "endColumn": 49,
+                    "endOffset": 25063
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 680,
+                    "startColumn": 4,
+                    "startOffset": 25068,
+                    "endColumn": 53,
+                    "endOffset": 25117
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 681,
+                    "startColumn": 4,
+                    "startOffset": 25122,
+                    "endColumn": 53,
+                    "endOffset": 25171
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 682,
+                    "startColumn": 4,
+                    "startOffset": 25176,
+                    "endColumn": 50,
+                    "endOffset": 25222
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 683,
+                    "startColumn": 4,
+                    "startOffset": 25227,
+                    "endColumn": 42,
+                    "endOffset": 25265
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 684,
+                    "startColumn": 4,
+                    "startOffset": 25270,
+                    "endColumn": 57,
+                    "endOffset": 25323
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 685,
+                    "startColumn": 4,
+                    "startOffset": 25328,
+                    "endColumn": 37,
+                    "endOffset": 25361
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 686,
+                    "startColumn": 4,
+                    "startOffset": 25366,
+                    "endColumn": 41,
+                    "endOffset": 25403
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 687,
+                    "startColumn": 4,
+                    "startOffset": 25408,
+                    "endColumn": 45,
+                    "endOffset": 25449
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 688,
+                    "startColumn": 4,
+                    "startOffset": 25454,
+                    "endColumn": 44,
+                    "endOffset": 25494
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 689,
+                    "startColumn": 4,
+                    "startOffset": 25499,
+                    "endColumn": 59,
+                    "endOffset": 25554
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 690,
+                    "startColumn": 4,
+                    "startOffset": 25559,
+                    "endColumn": 35,
+                    "endOffset": 25590
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 691,
+                    "startColumn": 4,
+                    "startOffset": 25595,
+                    "endColumn": 40,
+                    "endOffset": 25631
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 692,
+                    "startColumn": 4,
+                    "startOffset": 25636,
+                    "endColumn": 53,
+                    "endOffset": 25685
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 693,
+                    "startColumn": 4,
+                    "startOffset": 25690,
+                    "endColumn": 55,
+                    "endOffset": 25741
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 694,
+                    "startColumn": 4,
+                    "startOffset": 25746,
+                    "endColumn": 52,
+                    "endOffset": 25794
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 695,
+                    "startColumn": 4,
+                    "startOffset": 25799,
+                    "endColumn": 48,
+                    "endOffset": 25843
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 696,
+                    "startColumn": 4,
+                    "startOffset": 25848,
+                    "endColumn": 44,
+                    "endOffset": 25888
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 697,
+                    "startColumn": 4,
+                    "startOffset": 25893,
+                    "endColumn": 42,
+                    "endOffset": 25931
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 698,
+                    "startColumn": 4,
+                    "startOffset": 25936,
+                    "endColumn": 42,
+                    "endOffset": 25974
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 699,
+                    "startColumn": 4,
+                    "startOffset": 25979,
+                    "endColumn": 39,
+                    "endOffset": 26014
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 700,
+                    "startColumn": 4,
+                    "startOffset": 26019,
+                    "endColumn": 40,
+                    "endOffset": 26055
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 701,
+                    "startColumn": 4,
+                    "startOffset": 26060,
+                    "endColumn": 49,
+                    "endOffset": 26105
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 702,
+                    "startColumn": 4,
+                    "startOffset": 26110,
+                    "endColumn": 44,
+                    "endOffset": 26150
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 703,
+                    "startColumn": 4,
+                    "startOffset": 26155,
+                    "endColumn": 40,
+                    "endOffset": 26191
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 704,
+                    "startColumn": 4,
+                    "startOffset": 26196,
+                    "endColumn": 42,
+                    "endOffset": 26234
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 705,
+                    "startColumn": 4,
+                    "startOffset": 26239,
+                    "endColumn": 50,
+                    "endOffset": 26285
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 706,
+                    "startColumn": 4,
+                    "startOffset": 26290,
+                    "endColumn": 75,
+                    "endOffset": 26361
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 707,
+                    "startColumn": 4,
+                    "startOffset": 26366,
+                    "endColumn": 52,
+                    "endOffset": 26414
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 708,
+                    "startColumn": 4,
+                    "startOffset": 26419,
+                    "endColumn": 40,
+                    "endOffset": 26455
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 709,
+                    "startColumn": 4,
+                    "startOffset": 26460,
+                    "endColumn": 44,
+                    "endOffset": 26500
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 710,
+                    "startColumn": 4,
+                    "startOffset": 26505,
+                    "endColumn": 75,
+                    "endOffset": 26576
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 711,
+                    "startColumn": 4,
+                    "startOffset": 26581,
+                    "endColumn": 76,
+                    "endOffset": 26653
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 712,
+                    "startColumn": 4,
+                    "startOffset": 26658,
+                    "endColumn": 44,
+                    "endOffset": 26698
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 713,
+                    "startColumn": 4,
+                    "startOffset": 26703,
+                    "endColumn": 44,
+                    "endOffset": 26743
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 714,
+                    "startColumn": 4,
+                    "startOffset": 26748,
+                    "endColumn": 50,
+                    "endOffset": 26794
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 715,
+                    "startColumn": 4,
+                    "startOffset": 26799,
+                    "endColumn": 47,
+                    "endOffset": 26842
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 716,
+                    "startColumn": 4,
+                    "startOffset": 26847,
+                    "endColumn": 42,
+                    "endOffset": 26885
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 717,
+                    "startColumn": 4,
+                    "startOffset": 26890,
+                    "endColumn": 43,
+                    "endOffset": 26929
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 718,
+                    "startColumn": 4,
+                    "startOffset": 26934,
+                    "endColumn": 51,
+                    "endOffset": 26981
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 719,
+                    "startColumn": 4,
+                    "startOffset": 26986,
+                    "endColumn": 37,
+                    "endOffset": 27019
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 720,
+                    "startColumn": 4,
+                    "startOffset": 27024,
+                    "endColumn": 46,
+                    "endOffset": 27066
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 721,
+                    "startColumn": 4,
+                    "startOffset": 27071,
+                    "endLine": 724,
+                    "endColumn": 12,
+                    "endOffset": 27299
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 725,
+                    "startColumn": 4,
+                    "startOffset": 27304,
+                    "endColumn": 79,
+                    "endOffset": 27379
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 726,
+                    "startColumn": 4,
+                    "startOffset": 27384,
+                    "endLine": 728,
+                    "endColumn": 12,
+                    "endOffset": 27539
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 27544,
+                    "endColumn": 67,
+                    "endOffset": 27607
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 730,
+                    "startColumn": 4,
+                    "startOffset": 27612,
+                    "endLine": 735,
+                    "endColumn": 12,
+                    "endOffset": 27857
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 736,
+                    "startColumn": 4,
+                    "startOffset": 27862,
+                    "endLine": 741,
+                    "endColumn": 12,
+                    "endOffset": 28129
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 742,
+                    "startColumn": 4,
+                    "startOffset": 28134,
+                    "endLine": 746,
+                    "endColumn": 12,
+                    "endOffset": 28396
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 747,
+                    "startColumn": 4,
+                    "startOffset": 28401,
+                    "endLine": 753,
+                    "endColumn": 12,
+                    "endOffset": 28811
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 754,
+                    "startColumn": 4,
+                    "startOffset": 28816,
+                    "endLine": 757,
+                    "endColumn": 12,
+                    "endOffset": 29057
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 758,
+                    "startColumn": 4,
+                    "startOffset": 29062,
+                    "endLine": 761,
+                    "endColumn": 12,
+                    "endOffset": 29300
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 762,
+                    "startColumn": 4,
+                    "startOffset": 29305,
+                    "endLine": 765,
+                    "endColumn": 12,
+                    "endOffset": 29541
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 766,
+                    "startColumn": 4,
+                    "startOffset": 29546,
+                    "endLine": 769,
+                    "endColumn": 12,
+                    "endOffset": 29782
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 770,
+                    "startColumn": 4,
+                    "startOffset": 29787,
+                    "endLine": 773,
+                    "endColumn": 12,
+                    "endOffset": 30023
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 774,
+                    "startColumn": 4,
+                    "startOffset": 30028,
+                    "endLine": 777,
+                    "endColumn": 12,
+                    "endOffset": 30265
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 778,
+                    "startColumn": 4,
+                    "startOffset": 30270,
+                    "endLine": 781,
+                    "endColumn": 12,
+                    "endOffset": 30506
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 782,
+                    "startColumn": 4,
+                    "startOffset": 30511,
+                    "endLine": 789,
+                    "endColumn": 12,
+                    "endOffset": 30913
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 790,
+                    "startColumn": 4,
+                    "startOffset": 30918,
+                    "endLine": 795,
+                    "endColumn": 12,
+                    "endOffset": 31266
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 796,
+                    "startColumn": 4,
+                    "startOffset": 31271,
+                    "endLine": 805,
+                    "endColumn": 12,
+                    "endOffset": 31867
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 806,
+                    "startColumn": 4,
+                    "startOffset": 31872,
+                    "endLine": 816,
+                    "endColumn": 12,
+                    "endOffset": 32546
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 817,
+                    "startColumn": 4,
+                    "startOffset": 32551,
+                    "endLine": 827,
+                    "endColumn": 12,
+                    "endOffset": 33212
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 828,
+                    "startColumn": 4,
+                    "startOffset": 33217,
+                    "endLine": 831,
+                    "endColumn": 12,
+                    "endOffset": 33393
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 832,
+                    "startColumn": 4,
+                    "startOffset": 33398,
+                    "endLine": 835,
+                    "endColumn": 12,
+                    "endOffset": 33586
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 836,
+                    "startColumn": 4,
+                    "startOffset": 33591,
+                    "endLine": 842,
+                    "endColumn": 12,
+                    "endOffset": 33927
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

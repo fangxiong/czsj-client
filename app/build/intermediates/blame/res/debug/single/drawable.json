@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_vipavatar_press.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\round_corner_vipavatar_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_center.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_tab_center.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_user_signature.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_user_signature.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_setting.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bar_setting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_popsubmit.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_default_popsubmit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_chatbtn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_repeat.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_chat_repeat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_small_default.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_small_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_emote_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_sended.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_message_status_sended.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\pop_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navi_map_gps_locked.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\navi_map_gps_locked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_photo.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_message_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_white.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_default_white.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card_inner_bottom_left.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_card_inner_bottom_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_sendmsg.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\edittext_sendmsg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_sending.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_message_status_sending.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_groupparty_desc.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_groupparty_desc.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bottom_icon_unfollow.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_profile_bottom_icon_unfollow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_userpro_press.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_userpro_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_message_box_receive.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card_inner_bottom_center.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_card_inner_bottom_center.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_nearbygroup_parent.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_nearbygroup_parent.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_right.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_tab_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_default_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn2.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_chatbtn2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_picture_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\login_picture_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_user.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bglistitem_selector_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_et_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\login_et_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\personal_background.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\personal_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tb_item_center.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_tb_item_center.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_constact.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bar_constact.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_chat.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\ic_tab_chat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_readed.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_message_status_readed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_male.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_gender_male.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_full.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_tab_full.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_simplelist.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_dialog_simplelist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_maintab_item_lightblue.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_maintab_item_lightblue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bglistitem_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_friend.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\ic_tab_friend.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_submit.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_default_submit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tips.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_tips.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card_inner_bottom_right.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_card_inner_bottom_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_nearby.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\ic_tab_nearby.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\login_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search_clear.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_search_clear.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_multiline.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\edittext_multiline.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bottom_icon_chat.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_profile_bottom_icon_chat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tab_left.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_tab_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card_inner_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_card_inner_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_card.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq_constact.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\qq_constact.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_gray.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\round_corner_filter_gray.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_header_defaul.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_header_defaul.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_gender_famal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_site.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\ic_tab_site.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_rbtn_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\message_rbtn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_session_select.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bglistitem_selector_session_select.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_vipavatar_cover.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_vipavatar_cover.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_news.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bar_news.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_filter_cover.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_grouplist_ower.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_grouplist_ower.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_profile.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\ic_tab_profile.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bottom_icon_follow.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_profile_bottom_icon_follow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_phone_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\register_phone_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bottom_icon_report.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_profile_bottom_icon_report.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_send.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_message_box_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_dialog_listitem_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_nav_1_active.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\ic_nav_1_active.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll_top_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\ll_top_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_deynaimic.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bar_deynaimic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_user_btn.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\register_user_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_reflush_cancel.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_reflush_cancel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_download_process_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_download_process_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_selected.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_selected.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_plusitem.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_chat_plusitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_message_status_failed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_bottombar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_progress.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\refresh_progress.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_headerbar_spinner.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_headerbar_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\list_selector_transition.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_new.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bg_message_status_new.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_feedcomments.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\bglistitem_selector_feedcomments.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn3.xml",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\btn_chatbtn3.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\czsj-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_tie_user_avater_default_common.png",
+        "source": "D:\\AndroidStudioProjects\\czsj-client\\app\\src\\main\\res\\drawable\\biz_tie_user_avater_default_common.png"
+    }
+]
